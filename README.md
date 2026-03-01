@@ -4,11 +4,11 @@
 
 ## Diagramme de classe :
 
-<img width="710" height="419" alt="Capture d&#39;écran 2026-02-28 011605" src="https://github.com/user-attachments/assets/a3e7e67b-ba69-45bb-b5fe-7b279cb371d6" />
+<img width="710" height="419" alt="Capture d&#39;écran 2026-02-28 011605" src="https://github.com/user-attachments/assets/df14c79c-10f3-4263-953e-81aff746515f" />
 
 ## Use case :
 
-![IMG-20260228-WA0002](https://github.com/user-attachments/assets/e269623e-0b56-4bdf-99b4-f68c9297d05f)
+<img width="1430" height="392" alt="image" src="https://github.com/user-attachments/assets/272661df-a7c5-4fdf-af87-d5ffb6971d38" />
 
 ## 🏛 Architecture
 
