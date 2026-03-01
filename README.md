@@ -19,7 +19,8 @@ L'application propose une interface graphique moderne avec une authentification 
 ## 🏛 Architecture
 
 
-<img width="1278" height="855" alt="Capture d&#39;écran 2026-02-28 110609" src="https://github.com/user-attachments/assets/9514056c-f8b8-41f4-995b-80c880fff91e" />
+![IMG-20260228-WA0095](https://github.com/user-attachments/assets/44074651-509d-4610-a06b-218d8b33bb81)
+
 
 
 ## 📽️ Démonstration vidéo
