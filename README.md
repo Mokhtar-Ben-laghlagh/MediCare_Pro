@@ -2,6 +2,12 @@
 # 🏥 MediCare Pro — Système de Gestion des Rendez-Vous Médicaux
 **Application desktop Java pour la gestion complète des rendez-vous médicaux**
 
+## 📋 Description du projet
+
+**MediCare Pro** est une application de bureau développée en **Java Swing** permettant à un centre médical de gérer l'ensemble de ses opérations quotidiennes : patients, médecins, rendez-vous et statistiques.
+
+L'application propose une interface graphique moderne avec une authentification sécurisée, un système d'inscription avec confirmation par email, et une réinitialisation de mot de passe via un **code de vérification à 6 chiffres** envoyé sur Gmail.
+
 ## Diagramme de classe :
 
 <img width="710" height="419" alt="Capture d&#39;écran 2026-02-28 011605" src="https://github.com/user-attachments/assets/df14c79c-10f3-4263-953e-81aff746515f" />
@@ -26,11 +32,6 @@ https://github.com/user-attachments/assets/7b8bf60b-9c2b-4539-ab83-e7db9802f093
 
 
 
-## 📋 Description du projet
-
-**MediCare Pro** est une application de bureau développée en **Java Swing** permettant à un centre médical de gérer l'ensemble de ses opérations quotidiennes : patients, médecins, rendez-vous et statistiques.
-
-L'application propose une interface graphique moderne avec une authentification sécurisée, un système d'inscription avec confirmation par email, et une réinitialisation de mot de passe via un **code de vérification à 6 chiffres** envoyé sur Gmail.
 
 ---
 
